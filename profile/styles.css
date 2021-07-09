@@ -7,14 +7,13 @@
   text-align: center;
 }
 
-
 body {
-  background: #e40a3600;
-  color: #031144;
   font-family: 'Lora', serif;
+  color: #031144;
   font-size: 15px;
   font-weight: bold;
   display: block;
+  background-color: #222831;
 }
 
 .btn-blue {
