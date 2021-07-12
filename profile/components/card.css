@@ -1,0 +1,40 @@
+.card-white {
+  background-color: #EFEFEF;
+  padding: 50px;
+  box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+  border-radius: 4px;
+  margin: 20px 0px;
+  text-align: center;
+}
+
+.img-circle{
+  border-radius: 50%;
+}
+.btn-blue {
+  background-color: #0A66C2;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 4px;
+}
+.list-inline > li{
+  display: inline-block;
+  padding: 0px 20px;
+  list-style: none;
+  padding-left: 0px;
+  color: #0A66C2;
+  font-size: 40px;
+}
+
+#gtb, #fb, #inst{
+  color: #0A66C2;
+}
+
+.list-inline i:hover {
+  font-size: 40px;
+  color: #031144;
+}
+
+#presentacion p {
+  margin-bottom: 40px;
+}
+

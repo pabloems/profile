@@ -1,0 +1,21 @@
+.banner {
+  padding: 100px 0;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#banner {
+  text-align: center ;
+}
+.banner h2 {
+  font-size: 38px;
+  color:#ffffff;;
+}
+.banner p {
+  font-size: 30px;
+  font-style: italic;
+  font-weight: lighter;
+  opacity: 0.8;
+  color:#ffffff; ;
+}
